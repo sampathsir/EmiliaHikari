@@ -9,6 +9,7 @@ Based on [marie bot](https://github.com/PaulSonOfLars/tgbot)
 
 Can be found as [Emilia](https://t.me/EmiliaHikariBot).
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 For questions regarding creating your own bot, please head to [support group](https://t.me/EmiliaOfficial) where you'll find a
 group of volunteers to help. We'll also help when a database schema changes, and some table column needs to be
