@@ -21,6 +21,9 @@
     "TOKEN": {
       "description": "Your bot token, as a string."
     },
+     "DATABASE_URL" : {
+     "description" : "database url for elephat."
+    },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
       "value": "20516707"
