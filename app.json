@@ -23,7 +23,6 @@
     },
      "DATABASE_URL" : {
      "description" : "database url for elephantSQL.com."
-     "value" : "postgres://wumljkjo:eHwqBc5aMmacj2-ZYn3uV3EQcdlkuHdZ@batyr.db.elephantsql.com/wumljkjo",
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
