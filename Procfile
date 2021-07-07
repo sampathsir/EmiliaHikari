@@ -1,1 +1,1 @@
-worker: python3 -m emilia
+Bot: python3 -m emilia
